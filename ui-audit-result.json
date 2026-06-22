@@ -1,0 +1,888 @@
+{
+  "cssVars": {
+    "primary": "#316395",
+    "secondary": "",
+    "accent": "#38bdf8",
+    "textDark": "#1c2833",
+    "textLight": "",
+    "bg": ""
+  },
+  "pages": {
+    "home": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "16px",
+        "h1Weight": "400",
+        "h1LineH": "25.6px",
+        "bodyFont": "Outfit, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(28, 40, 51)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "hero",
+          "h": 900,
+          "pt": "0px",
+          "pb": "0px"
+        },
+        {
+          "cls": "stats-section",
+          "h": 205,
+          "pt": "32px",
+          "pb": "32px"
+        },
+        {
+          "cls": "about-section",
+          "h": 789,
+          "pt": "120px",
+          "pb": "0px"
+        },
+        {
+          "cls": "services-section",
+          "h": 2310,
+          "pt": "120px",
+          "pb": "120px"
+        },
+        {
+          "cls": "clients-section",
+          "h": 534,
+          "pt": "80px",
+          "pb": "80px"
+        },
+        {
+          "cls": "cta-band",
+          "h": 561,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 108,
+        "imgCount": 35,
+        "svgCount": 11,
+        "animEls": 0
+      },
+      "rhythm": {
+        "sectionCount": 8,
+        "gaps": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "about": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "company-profile",
+          "h": 590,
+          "pt": "120px",
+          "pb": "120px"
+        },
+        {
+          "cls": "stats-strip",
+          "h": 272,
+          "pt": "80px",
+          "pb": "80px"
+        },
+        {
+          "cls": "vision-section",
+          "h": 515,
+          "pt": "120px",
+          "pb": "120px"
+        },
+        {
+          "cls": "strategies-section",
+          "h": 1183,
+          "pt": "120px",
+          "pb": "120px"
+        },
+        {
+          "cls": "clients-section",
+          "h": 893,
+          "pt": "80px",
+          "pb": "80px"
+        },
+        {
+          "cls": "about-certs-section",
+          "h": 544,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 119,
+        "imgCount": 16,
+        "svgCount": 6,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 7,
+        "gaps": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "products": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "exp-section",
+          "h": 1725,
+          "pt": "0px",
+          "pb": "0px"
+        },
+        {
+          "cls": "cta-band",
+          "h": 561,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 130,
+        "imgCount": 5,
+        "svgCount": 11,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 2,
+        "gaps": [
+          0
+        ]
+      }
+    },
+    "portfolio": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "16px",
+        "h1Weight": "400",
+        "h1LineH": "25.6px",
+        "bodyFont": "Kanit, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(6, 8, 16)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgb(56, 189, 248)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "cinematic-section",
+          "h": 900,
+          "pt": "0px",
+          "pb": "0px"
+        },
+        {
+          "cls": "portfolio-grid-section",
+          "h": 4679,
+          "pt": "100px",
+          "pb": "120px"
+        },
+        {
+          "cls": "category-sections",
+          "h": 4209,
+          "pt": "0px",
+          "pb": "0px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgb(56, 189, 248)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 103,
+        "imgCount": 2,
+        "svgCount": 30,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 1,
+        "gaps": []
+      }
+    },
+    "corporate": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "cg-section",
+          "h": 1660,
+          "pt": "0px",
+          "pb": "0px"
+        },
+        {
+          "cls": "cta-band",
+          "h": 561,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 106,
+        "imgCount": 2,
+        "svgCount": 19,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 2,
+        "gaps": [
+          0
+        ]
+      }
+    },
+    "news": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "news-section",
+          "h": 702,
+          "pt": "100px",
+          "pb": "100px"
+        },
+        {
+          "cls": "news-section news-section--tech",
+          "h": 1193,
+          "pt": "80px",
+          "pb": "100px"
+        },
+        {
+          "cls": "cta-band",
+          "h": 561,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 121,
+        "imgCount": 11,
+        "svgCount": 14,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 3,
+        "gaps": [
+          83,
+          0
+        ]
+      }
+    },
+    "contact": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "router-link-active router-link-exact-active nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "page-section",
+          "h": 842,
+          "pt": "100px",
+          "pb": "100px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 122,
+        "imgCount": 2,
+        "svgCount": 8,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 1,
+        "gaps": []
+      }
+    },
+    "privacy": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "privacy-section",
+          "h": 1726,
+          "pt": "100px",
+          "pb": "100px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 118,
+        "imgCount": 2,
+        "svgCount": 5,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 1,
+        "gaps": []
+      }
+    },
+    "partners": {
+      "typo": {
+        "h1Font": "Kanit, sans-serif",
+        "h1Size": "86px",
+        "h1Weight": "800",
+        "h1LineH": "86px",
+        "bodyFont": "Sarabun, sans-serif",
+        "bodySize": "11px",
+        "bodyLineH": "17.6px",
+        "navFont": "Kanit, sans-serif"
+      },
+      "colors": {
+        "bodyBg": "rgb(254, 254, 254)",
+        "primaryEl": {
+          "bg": "rgba(255, 255, 255, 0.15)",
+          "color": "rgb(255, 255, 255)",
+          "el": "nav-cta"
+        },
+        "headingColor": "rgb(255, 255, 255)",
+        "bodyTextColor": "rgba(255, 255, 255, 0.55)",
+        "bgEl": "rgba(0, 0, 0, 0)"
+      },
+      "spacing": [
+        {
+          "cls": "partners-section",
+          "h": 1700,
+          "pt": "100px",
+          "pb": "100px"
+        },
+        {
+          "cls": "cta-band",
+          "h": 561,
+          "pt": "120px",
+          "pb": "120px"
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "A",
+          "txt": "",
+          "w": 107,
+          "h": 38,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "About Us",
+          "w": 90,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Products & Services",
+          "w": 168,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "Portfolio",
+          "w": 96,
+          "h": 34,
+          "cursor": "pointer"
+        },
+        {
+          "tag": "A",
+          "txt": "News & Activities",
+          "w": 145,
+          "h": 34,
+          "cursor": "pointer"
+        }
+      ],
+      "contrast": {
+        "textColor": "rgba(255, 255, 255, 0.55)",
+        "bgColor": "rgba(0, 0, 0, 0)"
+      },
+      "noise": {
+        "visibleEls": 107,
+        "imgCount": 15,
+        "svgCount": 5,
+        "animEls": 1
+      },
+      "rhythm": {
+        "sectionCount": 2,
+        "gaps": [
+          0
+        ]
+      }
+    }
+  },
+  "mobile": {
+    "home": {
+      "h1Size": "16px",
+      "h1LineH": "25.6px",
+      "bodySize": "11px"
+    },
+    "contact": {
+      "h1Size": "42px",
+      "h1LineH": "42px",
+      "bodySize": "11px"
+    }
+  }
+}
